@@ -73,7 +73,7 @@ augroup END
 
 " =====[ Smart completion via <TAB> and <S-TAB> ]=============
 
-runtime plugin/smartcom.vim
+runtime pack/VimAsAPerlIDE/plugin/smartcom.vim
 
 " Add extra completions (mainly for Perl programming)...
 
