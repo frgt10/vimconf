@@ -1,0 +1,1 @@
+../../git-plugins/gitsessions.vim/
