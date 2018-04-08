@@ -1,0 +1,3 @@
+[submodule "/home/stas/.vim/pack/git-plugins/vim-hier"]
+	path = /home/stas/.vim/pack/git-plugins/vim-hier
+	url = git@github.com:jceb/vim-hier.git
