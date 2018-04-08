@@ -4,3 +4,6 @@
 [submodule "pack/git-plugins/ale"]
 	path = pack/git-plugins/ale
 	url = https://github.com/w0rp/ale.git
+[submodule "/home/stas/.vim/pack/git-plugins/gitsessions.vim"]
+	path = /home/stas/.vim/pack/git-plugins/gitsessions.vim
+	url = git@github.com:wting/gitsessions.vim.git
