@@ -7,3 +7,12 @@
 [submodule "/home/stas/.vim/pack/git-plugins/gitsessions.vim"]
 	path = /home/stas/.vim/pack/git-plugins/gitsessions.vim
 	url = git@github.com:wting/gitsessions.vim.git
+[submodule "pack/comments.vim"]
+	path = pack/comments.vim
+	url = https://github.com/vim-scripts/comments.vim
+[submodule "pack/git-plugins/comments.vim"]
+	path = pack/git-plugins/comments.vim
+	url = https://github.com/vim-scripts/comments.vim
+[submodule "pack/git-plugins/perl-support.vim"]
+	path = pack/git-plugins/perl-support.vim
+	url = git@github.com:vim-scripts/perl-support.vim.git
