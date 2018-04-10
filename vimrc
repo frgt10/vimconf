@@ -23,6 +23,7 @@ set autoindent
 let g:Perl_Perl = 'perl'
 let g:Perl_Perl_is_executable = 1
 let g:Perl_DirectRun = 'no'
+let g:Perl_InsertFileHeader = 'no'
 
 "====[ Work out what kind of file this is ]========
 
