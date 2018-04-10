@@ -18,6 +18,12 @@ set expandtab       " Expand TABs to spaces
 
 set autoindent
 
+"====[ perl-support params ]=========
+
+let g:Perl_Perl = 'perl'
+let g:Perl_Perl_is_executable = 1
+let g:Perl_DirectRun = 'no'
+
 "====[ Work out what kind of file this is ]========
 
 filetype plugin indent on
